@@ -1,7 +1,3 @@
-
-### `README.md` para o Repositório `PyAutoGUI`
-
-```markdown
 # Desafios PyAutoGUI
 
 Este repositório contém desafios resolvidos usando PyAutoGUI, uma biblioteca para automação de interfaces gráficas.
@@ -37,11 +33,18 @@ Aqui você encontrará scripts que automatizam tarefas em interfaces gráficas u
 ```plaintext
 PyAutoGUI/
 ├── README.md
-├── requirements.txt
-└── scripts/
-    ├── __init__.py
-    ├── script1.py
-    └── script2.py
+├── desafio_clica_arrastar.py
+├── desafio_criandoPasta.py
+├── desafio_escrava_frase.py
+├── desafio_imagem_simples.py
+├── desafio_log_senha.py
+├── desafio_scroll.py
+├── desafio_site_downloadEalertas.py
+├── fones.txt
+├── projeto_guitarGame.py
+├── projeto_msgWhatts.py
+└── projeto_pianoGame.py
+
 ```
 ## 🛠 Tecnologias Usadas
 - Python
